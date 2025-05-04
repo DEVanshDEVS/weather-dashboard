@@ -4,7 +4,7 @@ A sleek and real-time weather analytics dashboard built with **React**, **Node.j
 
 ## 📸 Demo
 
-![App Screenshot](assets/demo-screenshot.png) <!-- Replace with actual image path or link -->
+![App Screenshot](frontend/frontend/public/screenshot.png)
 
 ## 🚀 Features
 
@@ -26,14 +26,14 @@ A sleek and real-time weather analytics dashboard built with **React**, **Node.j
 ## 📁 Folder Structure
 
 weather-dashboard/
-├── backend/ # Node.js backend
-│ ├── controllers/
-│ ├── routes/
-│ ├── services/
-│ ├── .env
-│ └── index.js
-├── frontend/ # React frontend
-│ ├── src/
-│ ├── public/
-│ └── .env
+├── backend/                  # Node.js backend
+│   ├── controllers/
+│   ├── routes/
+│   ├── services/
+│   ├── .env
+│   └── index.js
+├── frontend/                 # React frontend
+│   ├── src/
+│   ├── public/
+│   └── .env
 └── README.md
