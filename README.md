@@ -2,9 +2,6 @@
 
 A sleek and real-time weather analytics dashboard built with React, Node.js, and PostgreSQL, featuring dynamic weather visualizations, caching, and OpenWeather API integration.
 
-## 📸 Demo
-![Weather Dashboard Screenshot](https://raw.githubusercontent.com/DEVanshDEVS/weather-dashboard/main/frontend/frontend/public/screenshot.png)
-
 ## 🚀 Features
 - 🔍 Search weather by city (worldwide)
 - 📡 Real-time weather data using OpenWeather API
